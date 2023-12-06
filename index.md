@@ -7,3 +7,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Wake up
+- [ ] Drink coffee
+- [ ] Have a great day
